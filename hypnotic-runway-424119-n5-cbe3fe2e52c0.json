@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hypnotic-runway-424119-n5",
+  "private_key_id": "cbe3fe2e52c0fab05bf898f123f899b82e2ee049",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr+lFj61fXYbS2\nE66/ovb8Dqt5OjGD/qQGTieJwi2ZiWXeKvKue3cgijLqVXhg4EFdluXhICUsMIGf\n3UWBJ2vlTDFiftpNzLX//B0Ma8QFmYU5hZQy7aGKriSGSZQg8oxVC0HinOGKYsjF\nwjvJUwdhePOwtQ3GaJpZx3/0Bd5yVgML5q5dNFxpphJFZcEP+mYNOoezev1xxEeH\nqK6tWxdUSrwd5+23EuWEwQQuMl+TTpfJVUVktbDvKeWIZ4mx+YCYN7M83AwUokUi\nBgm9nHr2L9X0i6lDudMMfZ0aJduHzAuJAblYHTYeyYYSnY9Go5XOLgxLPot+XFmB\nULskWeYbAgMBAAECgf8eQOrWHc91kgb5cSeh/wSlW8Jixv3l9yAwFrgGTgwRXcUH\nHunaIcws7UJPlCDg++e1PkI/2ou8//PopNvqnaropwnuD3A88yAMxFGtN4bmBQDW\nkm7HlECKcUl92GZNC6p7yTvSZ1H5kXknocTQwMp1JVQuDjJ0nm/wDu4MJ/epF7Up\nbA8pJM+RTV4c8WUEIRFXjUderb0rkhY10TspOK2+bKMO3JJCdPtaYR4dYVyZNvsU\nv/LO+7GyJJM/VHuhqpRtguyp0TsbOaeJnCw83TrL9ssH+JP5Zg/T/9w6zpedI+R8\n0mq7t6Ag/L7Yv+TCNfivGj+6da2AyWMaBNuO3iECgYEA4lawMxuABHjwYSo2UhGT\nEai1bAQ4X0k9LuittNBqjdTyYbyTX0t4p+a+SGWx6sfruAg+5k93gJ6dBySNwQcy\nVvcJYXBwaFRPNttE7mM8leNlis6WV2T0Y3S80vvzD2OGp1oMN7QATYsTOzvGJf84\nbkLseim26s2mnomhf/jKnDECgYEAwoPob134UebkbuuLloTZvR7g6yneEpnz7xVn\nQ69JAkPrlHi5fiyDhszS4am/Xkbc1rFdtUPOIUkAAkR6FS1evmLuYvSVIQs4Stzv\noXQxdRzCQOdfwa09TX5GAF0F71jAqwLoL+Zd4sUVjE5+CT6lu6N354+wgEqKxhLl\nNzEcMAsCgYEAha2zhYvhcULInmqjCJeuqAhflntrnAOSqkjsh1VtCXXS7hzFYcwe\nZ/QlQHcnvMX1F41vMPGQYBvOHLDfNDl+5tQi6zTQfx4EZx7cOHvOBaz3hSL8soNC\nwBbriyUZamZa2i6Z9rBOWX4hjqOAJWL2vlCygHhwu39YwFwDUaTsbZECgYBrDPWK\n9QiI6q2lbfSwrgS3VJssUSpqyle5qOngEkP3/zFT0O0lR5JLScZ1c1pipFU9wvdz\nnxF+uBJNLSqTJRkTZpcT1s+MFASzDszC6pOdhGpUFgJZMOKgF3KnGIr/orTGaR8n\n3XymJRkq0rgClnvXvKtswWO990hQom2L5ndA6QKBgQDS/RjppNuS9AYpvG01/RLq\nFkKutpF2zE6BiTOp/HfSDBHoHqej6ZcwWinPMk6J/hQFo8pB85SfzOdi7aVtIrNJ\nZm1FIiTHx0oiVn8qtSqjqo4TPazj8uG6FP9F51EW9Sy9OI/ZzC+nIfd84A3Jn7Fr\ndumEyg3Ldrp1jIOjlhfqqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pirru-nvo@hypnotic-runway-424119-n5.iam.gserviceaccount.com",
+  "client_id": "117630273203933309586",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pirru-nvo%40hypnotic-runway-424119-n5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
